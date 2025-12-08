@@ -1,47 +1,35 @@
-[00:18:58] [Server thread/INFO]: MinhKhoii has reached the goal [Beaconator]
-[00:18:58] [Server thread/INFO]: MinhKhoii has made the advancement [Bring Home the Beacon]
-[00:19:58] [Server thread/INFO]: MrCowww[/26.45.105.26:53336] logged in with entity id 73113 at (384.70562383027226, 65.0, 256.9413907316582)
-[00:19:58] [Server thread/INFO]: MrCowww joined the game
-[00:20:13] [Server thread/INFO]: [Not Secure] <MrCowww> m dau
-[00:20:17] [Server thread/INFO]: [Not Secure] <MinhKhoii> day7
-[00:20:22] [Server thread/INFO]: [Not Secure] <MinhKhoii> xong me r
-[00:20:27] [Server thread/INFO]: [Not Secure] <MinhKhoii> e
-[00:20:34] [Server thread/INFO]: [Not Secure] <MinhKhoii> sao k co hoi phuc
-[00:20:36] [Server thread/INFO]: [Not Secure] <MrCowww> dume chem' m qua'
-[00:21:01] [Server thread/INFO]: [Not Secure] <MinhKhoii> hồi phục đâu
-[00:21:23] [Server thread/INFO]: [Not Secure] <MrCowww> bi. ngu a`
-[00:21:28] [Server thread/INFO]: [Not Secure] <MinhKhoii> sao t thấy mỗi kháng cự z
-[00:21:38] [Server thread/INFO]: [Not Secure] <MinhKhoii> af co r
-[00:21:46] [Server thread/INFO]: [Not Secure] <MinhKhoii> whyyyy
-[00:21:47] [Server thread/INFO]: [Not Secure] <MrCowww> biet' xai` kh z
-[00:21:50] [Server thread/INFO]: [Not Secure] <MinhKhoii> ko
-[00:21:53] [Server thread/INFO]: [Not Secure] <MinhKhoii> =)))
-[00:21:54] [Server thread/INFO]: [Not Secure] <MrCowww> nhu cc
-[00:22:07] [Server thread/INFO]: [Not Secure] <MrCowww> ngu?
-[00:22:08] [Server thread/INFO]: MrCowww lost connection: Disconnected
-[00:22:08] [Server thread/INFO]: MrCowww left the game
-[02:53:40] [Server thread/INFO]: Villager cyx['Villager'/31673, l='ServerLevel[world]', x=349.70, y=56.19, z=231.70] died, message: 'Villager was squished too much'
-[02:53:59] [Server thread/INFO]: Villager cyx['Villager'/31664, l='ServerLevel[world]', x=349.70, y=56.19, z=231.30] died, message: 'Villager was squished too much'
-[02:57:08] [Server thread/INFO]: MinhKhoii has made the advancement [A Seedy Place]
-[03:12:13] [Server thread/INFO]: Villager cyx['Villager'/276527, l='ServerLevel[world]', x=349.30, y=56.19, z=231.30] died, message: 'Villager was squished too much'
-[03:19:57] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=199, y=65, z=129} ja{x=198, y=65, z=129}
-[03:35:14] [Server thread/INFO]: MinhKhoii lost connection: Disconnected
-[03:35:14] [Server thread/INFO]: MinhKhoii left the game
-[03:36:14] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[03:40:54] [Server thread/INFO]: MinhKhoii[/26.107.92.215:64847] logged in with entity id 298653 at (240.51526876469637, 233.0, 55.11807837538081)
-[03:40:54] [Server thread/INFO]: MinhKhoii joined the game
-[03:47:19] [Server thread/INFO]: Villager cyx['Villager'/298847, l='ServerLevel[world]', x=349.70, y=56.19, z=231.70] died, message: 'Villager was squished too much'
-[03:47:20] [Server thread/INFO]: Villager cyx['Villager'/298846, l='ServerLevel[world]', x=349.30, y=56.19, z=231.30] died, message: 'Villager was squished too much'
-[03:48:27] [Server thread/INFO]: MinhKhoii lost connection: Disconnected
-[03:48:27] [Server thread/INFO]: MinhKhoii left the game
-[03:49:01] [Server thread/INFO]: Stopping the server
-[03:49:01] [Server thread/INFO]: Stopping server
-[03:49:01] [Server thread/INFO]: Saving players
-[03:49:01] [Server thread/INFO]: Saving worlds
-[03:49:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:49:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:49:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:49:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:49:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:49:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:49:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:03:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[04:04:00] [ServerMain/INFO]: Loaded 1461 recipes
+[04:04:00] [ServerMain/INFO]: Loaded 1574 advancements
+[04:04:00] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[04:04:00] [Server thread/INFO]: Loading properties
+[04:04:00] [Server thread/INFO]: Default game type: SURVIVAL
+[04:04:00] [Server thread/INFO]: Generating keypair
+[04:04:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:04:00] [Server thread/INFO]: Using default channel type
+[04:04:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:04:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:04:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:04:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:04:00] [Server thread/INFO]: Preparing level "world"
+[04:04:01] [Server thread/INFO]: Loading 0 persistent chunks...
+[04:04:01] [Server thread/INFO]: Preparing spawn area: 100%
+[04:04:01] [Server thread/INFO]: Time elapsed: 62 ms
+[04:04:01] [Server thread/INFO]: Done (0.452s)! For help, type "help"
+[04:05:01] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:05:21] [Server thread/INFO]: MinhKhoii[/26.107.92.215:51376] logged in with entity id 233 at (404.5, 63.0, 241.5)
+[04:05:21] [Server thread/INFO]: MinhKhoii joined the game
+[04:05:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[04:05:50] [Server thread/INFO]: MinhKhoii lost connection: Disconnected
+[04:05:50] [Server thread/INFO]: MinhKhoii left the game
+[04:06:04] [Server thread/INFO]: Stopping the server
+[04:06:04] [Server thread/INFO]: Stopping server
+[04:06:04] [Server thread/INFO]: Saving players
+[04:06:04] [Server thread/INFO]: Saving worlds
+[04:06:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:06:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:06:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:06:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:06:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:06:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:06:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
