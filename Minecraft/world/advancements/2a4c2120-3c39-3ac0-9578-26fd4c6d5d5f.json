@@ -3993,9 +3993,9 @@
     },
     "done": true
   },
-  "minecraft:nether/create_beacon": {
+  "minecraft:nether/summon_wither": {
     "criteria": {
-      "beacon": "2025-12-05 23:17:28 +0700"
+      "summoned": "2025-12-05 23:06:53 +0700"
     },
     "done": true
   },
@@ -4011,21 +4011,45 @@
     },
     "done": true
   },
-  "minecraft:nether/create_full_beacon": {
-    "criteria": {
-      "beacon": "2025-12-05 23:17:28 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-12-05 23:09:43 +0700"
     },
     "done": true
   },
-  "minecraft:nether/summon_wither": {
+  "minecraft:nether/create_beacon": {
     "criteria": {
-      "summoned": "2025-12-05 23:06:53 +0700"
+      "beacon": "2025-12-05 23:17:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-12-05 23:17:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-12-07 22:09:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-12-07 22:09:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-12-07 22:14:26 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-12-07 22:14:54 +0700"
     },
     "done": true
   },
