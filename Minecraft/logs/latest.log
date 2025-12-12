@@ -1,44 +1,268 @@
-[12:05:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[12:05:29] [ServerMain/INFO]: Loaded 1461 recipes
-[12:05:30] [ServerMain/INFO]: Loaded 1574 advancements
-[12:05:30] [Server thread/INFO]: Starting minecraft server version 1.21.10
-[12:05:30] [Server thread/INFO]: Loading properties
-[12:05:30] [Server thread/INFO]: Default game type: SURVIVAL
-[12:05:30] [Server thread/INFO]: Generating keypair
-[12:05:30] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:05:30] [Server thread/INFO]: Using default channel type
-[12:05:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:05:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:05:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:05:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:05:31] [Server thread/INFO]: Preparing level "world"
-[12:05:31] [Server thread/INFO]: Loading 0 persistent chunks...
-[12:05:31] [Server thread/INFO]: Preparing spawn area: 100%
-[12:05:31] [Server thread/INFO]: Time elapsed: 74 ms
-[12:05:31] [Server thread/INFO]: Done (0.822s)! For help, type "help"
-[12:05:43] [Server thread/INFO]: MinhKhoii[/26.107.92.215:60682] logged in with entity id 80 at (251.54876132698692, 233.0, 52.134324588688344)
-[12:05:44] [Server thread/INFO]: MinhKhoii joined the game
-[12:05:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[14:37:31] [Server thread/WARN]: MinhKhoii moved too quickly! 9.3517363285751,-9.420485714875724,13.591368877706401
-[14:49:20] [Server thread/INFO]: Villager cyx['Villager'/92104, l='ServerLevel[world]', x=349.30, y=56.19, z=231.30] died, message: 'Villager was squished too much'
-[14:49:38] [Server thread/INFO]: Villager cyx['Villager'/92109, l='ServerLevel[world]', x=349.30, y=56.19, z=231.70] died, message: 'Villager was squished too much'
-[15:01:50] [Server thread/INFO]: Villager cyx['Villager'/92107, l='ServerLevel[world]', x=349.70, y=56.19, z=231.70] died, message: 'Villager was squished too much'
-[15:03:18] [Server thread/INFO]: Villager cyx['Villager'/92111, l='ServerLevel[world]', x=349.30, y=56.19, z=231.30] died, message: 'Villager was squished too much'
-[15:03:38] [Server thread/INFO]: Villager cyx['Villager'/92102, l='ServerLevel[world]', x=349.70, y=56.19, z=231.70] died, message: 'Villager was squished too much'
-[17:45:50] [Server thread/INFO]: Villager cyx['Villager'/92103, l='ServerLevel[world]', x=349.70, y=56.19, z=231.30] died, message: 'Villager was squished too much'
-[18:55:59] [Server thread/INFO]: Villager cyx['Villager'/92113, l='ServerLevel[world]', x=349.70, y=56.19, z=231.70] died, message: 'Villager was squished too much'
-[18:56:10] [Server thread/INFO]: Villager cyx['Villager'/92101, l='ServerLevel[world]', x=349.30, y=56.19, z=231.70] died, message: 'Villager was squished too much'
-[18:56:12] [Server thread/INFO]: Villager cyx['Villager'/92105, l='ServerLevel[world]', x=349.70, y=56.19, z=231.70] died, message: 'Villager was squished too much'
-[19:51:44] [Server thread/INFO]: MinhKhoii lost connection: Disconnected
-[19:51:44] [Server thread/INFO]: MinhKhoii left the game
-[19:51:51] [Server thread/INFO]: Stopping the server
-[19:51:51] [Server thread/INFO]: Stopping server
-[19:51:51] [Server thread/INFO]: Saving players
-[19:51:51] [Server thread/INFO]: Saving worlds
-[19:51:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:51:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:51:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:51:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:51:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:51:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:51:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:57:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[20:57:37] [ServerMain/INFO]: Loaded 1461 recipes
+[20:57:37] [ServerMain/INFO]: Loaded 1574 advancements
+[20:57:38] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[20:57:38] [Server thread/INFO]: Loading properties
+[20:57:38] [Server thread/INFO]: Default game type: SURVIVAL
+[20:57:38] [Server thread/INFO]: Generating keypair
+[20:57:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:57:38] [Server thread/INFO]: Using default channel type
+[20:57:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:57:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:57:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:57:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:57:38] [Server thread/INFO]: Preparing level "world"
+[20:57:38] [Server thread/INFO]: Loading 0 persistent chunks...
+[20:57:38] [Server thread/INFO]: Preparing spawn area: 100%
+[20:57:38] [Server thread/INFO]: Time elapsed: 79 ms
+[20:57:38] [Server thread/INFO]: Done (0.391s)! For help, type "help"
+[20:58:38] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:27:10] [Server thread/INFO]: MinhKhoii[/26.107.92.215:57760] logged in with entity id 132 at (533.3613128155638, 75.0, 209.4864907981959)
+[21:27:10] [Server thread/INFO]: MinhKhoii joined the game
+[21:27:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21:27:16] [Server thread/INFO]: MrCowww[/26.45.105.26:63109] logged in with entity id 366 at (433.5070544188452, 63.0, 214.684112518395)
+[21:27:16] [Server thread/INFO]: MrCowww joined the game
+[21:27:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9986ms or 199 ticks behind
+[21:28:16] [Server thread/INFO]: [Not Secure] <MrCowww> e
+[21:28:19] [Server thread/INFO]: [Not Secure] <MinhKhoii> j
+[21:28:21] [Server thread/INFO]: [Not Secure] <MrCowww> xay dc farm j r
+[21:28:38] [Server thread/INFO]: [Not Secure] <MinhKhoii> mia, shulker, tre, ender
+[21:28:38] [Server thread/INFO]: [Not Secure] <MrCowww> tra? giap' cho t
+[21:28:45] [Server thread/INFO]: [Not Secure] <MinhKhoii> doi sach cho t
+[21:29:01] [Server thread/INFO]: [Not Secure] <MinhKhoii> sach phu phep giap
+[21:29:03] [Server thread/INFO]: [Not Secure] <MrCowww> sach' j
+[21:29:08] [Server thread/INFO]: [Not Secure] <MinhKhoii> full
+[21:29:12] [Server thread/INFO]: [Not Secure] <MrCowww> :)?
+[21:29:20] [Server thread/INFO]: [Not Secure] <MinhKhoii> t lam bo giap k co dong gai
+[21:29:27] [Server thread/INFO]: [Not Secure] <MrCowww> lagg the' dcm
+[21:29:32] [Server thread/INFO]: [Not Secure] <MinhKhoii> co dong do shulker farm k dc
+[21:29:41] [Server thread/INFO]: [Not Secure] <MinhKhoii> mang nha t
+[21:29:44] [Server thread/INFO]: [Not Secure] <MinhKhoii> ==)))
+[21:29:51] [Server thread/INFO]: [Not Secure] <MrCowww> dc nhiu manh? shulker r
+[21:29:53] [Server thread/INFO]: [Not Secure] <MinhKhoii> full sach
+[21:30:02] [Server thread/INFO]: [Not Secure] <MinhKhoii> mac gap vo di
+[21:30:02] [Server thread/INFO]: [Not Secure] <MrCowww> co cc
+[21:30:06] [Server thread/INFO]: [Not Secure] <MinhKhoii> qua day
+[21:31:09] [Server thread/INFO]: [Not Secure] <MrCowww> vcc
+[21:31:11] [Server thread/INFO]: [Not Secure] <MinhKhoii> lay di
+[21:31:20] [Server thread/INFO]: [Not Secure] <MrCowww> lagg qua
+[21:31:24] [Server thread/INFO]: [Not Secure] <MinhKhoii> tui t co lay san r
+[21:31:44] [Server thread/INFO]: [Not Secure] <MinhKhoii> ne
+[21:31:47] [Server thread/INFO]: [Not Secure] <MinhKhoii> farm mia ne
+[21:32:09] [Server thread/INFO]: [Not Secure] <MrCowww> adu
+[21:32:38] [Server thread/INFO]: [Not Secure] <MinhKhoii> doi sach cho t
+[21:32:44] [Server thread/INFO]: [Not Secure] <MinhKhoii> t di phu phep
+[21:32:49] [Server thread/INFO]: [Not Secure] <MrCowww> ok
+[21:32:50] [Server thread/INFO]: [Not Secure] <MinhKhoii> giap lozzzz
+[21:32:53] [Server thread/WARN]: MrCowww moved too quickly! -10.29362484328243,3.989522191658935,2.9030512538183473
+[21:32:56] [Server thread/WARN]: MrCowww was kicked for floating too long!
+[21:32:56] [Server thread/INFO]: MrCowww lost connection: Flying is not enabled on this server
+[21:32:56] [Server thread/INFO]: MrCowww left the game
+[21:33:09] [Server thread/INFO]: MrCowww[/26.45.105.26:63123] logged in with entity id 9076 at (469.77652137627445, 67.64717211657566, 225.30637020710944)
+[21:33:09] [Server thread/INFO]: MrCowww joined the game
+[21:33:13] [Server thread/INFO]: [Not Secure] <MinhKhoii> vcl
+[21:33:18] [Server thread/INFO]: [Not Secure] <MrCowww> laagg
+[21:33:49] [Server thread/INFO]: [Not Secure] <MinhKhoii> doi di xong dua cho t
+[21:35:09] [Server thread/INFO]: Villager cyx['Armorer'/393, l='ServerLevel[world]', x=380.70, y=66.00, z=260.70] died, message: 'Armorer burned to death'
+[21:38:31] [Server thread/INFO]: [Not Secure] <MinhKhoii> xong chua
+[21:38:39] [Server thread/INFO]: [Not Secure] <MrCowww> chua
+[21:40:52] [Server thread/INFO]: [Not Secure] <MrCowww> e
+[21:40:58] [Server thread/INFO]: [Not Secure] <MinhKhoii> ha4
+[21:41:01] [Server thread/INFO]: [Not Secure] <MrCowww> deo co bao ve IV
+[21:41:05] [Server thread/INFO]: [Not Secure] <MinhKhoii> why
+[21:41:19] [Server thread/INFO]: [Not Secure] <MinhKhoii> ngu
+[21:41:26] [Server thread/INFO]: [Not Secure] <MrCowww> con do' set' danh' thanh` phu` thuy?
+[21:41:39] [Server thread/INFO]: [Not Secure] <MinhKhoii> vcl
+[21:41:50] [Server thread/INFO]: [Not Secure] <MinhKhoii> co bao ve 3 k
+[21:41:59] [Server thread/INFO]: [Not Secure] <MrCowww> kh
+[21:42:04] [Server thread/INFO]: [Not Secure] <MinhKhoii> vai l
+[21:42:41] [Server thread/INFO]: [Not Secure] <MinhKhoii> đổi đỡ, mốt m kiếm lại
+[21:43:03] [Server thread/INFO]: [Not Secure] <MinhKhoii> khoi bảo vệ, để đó đi mốt nào có r t lấy
+[21:45:26] [Server thread/INFO]: [Not Secure] <MinhKhoii> du chua
+[21:47:41] [Server thread/INFO]: [Not Secure] <MrCowww> thieu' moi~ bao? ve.
+[21:47:57] [Server thread/INFO]: [Not Secure] <MinhKhoii> giap kc
+[21:48:16] [Server thread/INFO]: [Not Secure] <MinhKhoii> con k
+[21:48:34] [Server thread/INFO]: [Not Secure] <MinhKhoii> còn cái nào m chưa bổ vô shulker k
+[21:48:55] [Server thread/INFO]: [Not Secure] <MrCowww> lấy gai kh
+[21:48:58] [Server thread/INFO]: [Not Secure] <MinhKhoii> k
+[21:49:07] [Server thread/INFO]: [Not Secure] <MrCowww> đủ r đó
+[21:50:11] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=272} ja{x=383, y=66, z=291}
+[21:50:56] [Server thread/INFO]: Villager cyx['Villager'/422, l='ServerLevel[world]', x=387.10, y=66.00, z=290.50] died, message: 'Villager suffocated in a wall'
+[21:51:27] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=272} ja{x=385, y=66, z=290}
+[21:52:13] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=384, y=67, z=289} ja{x=385, y=67, z=289}
+[21:52:45] [Server thread/INFO]: [Not Secure] <MinhKhoii> e
+[21:52:48] [Server thread/INFO]: [Not Secure] <MrCowww> sao
+[21:52:54] [Server thread/INFO]: [Not Secure] <MinhKhoii> đổi cho t lưu ly
+[21:53:00] [Server thread/INFO]: [Not Secure] <MinhKhoii> co k
+[21:53:02] [Server thread/INFO]: [Not Secure] <MrCowww> kh co'
+[21:53:05] [Server thread/INFO]: [Not Secure] <MinhKhoii> fuck
+[21:55:09] [Server thread/WARN]: MrCowww moved too quickly! 2.4102073673236646,-1.9042291190284146,-9.78364146801465
+[21:55:33] [Server thread/INFO]: Villager cyx['Librarian'/410, l='ServerLevel[world]', x=380.68, y=66.00, z=278.52] died, message: 'Librarian tried to swim in lava'
+[21:58:25] [Server thread/INFO]: [Not Secure] <MinhKhoii> xay farm totem di
+[21:58:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[21:58:48] [Server thread/INFO]: [Not Secure] <MrCowww> lagg
+[21:59:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[22:00:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2413ms or 48 ticks behind
+[22:00:38] [Server thread/INFO]: [Not Secure] <MinhKhoii> vcl
+[22:00:42] [Server thread/INFO]: [Not Secure] <MrCowww> j
+[22:01:04] [Server thread/INFO]: [Not Secure] <MinhKhoii> sao cổng địa ngục tới the end nó nối xuống hang r
+[22:01:12] [Server thread/INFO]: [Not Secure] <MinhKhoii> clq j z
+[22:01:23] [Server thread/INFO]: [Not Secure] <MrCowww> hỏi t
+[22:01:26] [Server thread/INFO]: [Not Secure] <MrCowww> =))
+[22:03:28] [Server thread/INFO]: Villager cyx['Villager'/425, l='ServerLevel[world]', x=349.70, y=56.19, z=231.30] died, message: 'Villager was squished too much'
+[22:05:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[22:06:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[22:07:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[22:08:18] [Server thread/INFO]: [Not Secure] <MinhKhoii> lam sao de lay cai dinh ba z
+[22:08:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22:08:38] [Server thread/INFO]: [Not Secure] <MrCowww> quảng vỏ ốc cho con cầm đinh ba
+[22:08:48] [Server thread/INFO]: [Not Secure] <MinhKhoii> no k cam thi sao
+[22:08:55] [Server thread/INFO]: [Not Secure] <MrCowww> hên thì gặp đc con cho cây đinh ba
+[22:08:59] [Server thread/INFO]: [Not Secure] <MrCowww> kh thì chém
+[22:09:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[22:09:46] [Server thread/INFO]: Villager cyx['Villager'/429, l='ServerLevel[world]', x=349.70, y=56.19, z=231.70] died, message: 'Villager was squished too much'
+[22:10:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22:10:25] [Server thread/WARN]: MinhKhoii moved too quickly! 14.563579433454208,-0.5527528519888563,-11.20115611573084
+[22:11:06] [Server thread/WARN]: MrCowww moved wrongly!
+[22:18:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[22:20:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22:20:56] [Server thread/INFO]: [Not Secure] <MinhKhoii> e
+[22:21:00] [Server thread/INFO]: [Not Secure] <MrCowww> j
+[22:21:00] [Server thread/INFO]: [Not Secure] <MinhKhoii> dang lm j z
+[22:21:06] [Server thread/INFO]: [Not Secure] <MrCowww> kiem' bao ve
+[22:21:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[22:21:22] [Server thread/INFO]: [Not Secure] <MinhKhoii> t co r
+[22:21:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22:23:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22:25:45] [Server thread/INFO]: Villager cyx['Villager'/427, l='ServerLevel[world]', x=349.30, y=56.19, z=231.30] died, message: 'Villager was squished too much'
+[22:25:51] [Server thread/INFO]: Villager cyx['Villager'/426, l='ServerLevel[world]', x=349.70, y=56.19, z=231.30] died, message: 'Villager was squished too much'
+[22:25:52] [Server thread/INFO]: Villager cyx['Villager'/438, l='ServerLevel[world]', x=349.70, y=56.19, z=231.70] died, message: 'Villager was squished too much'
+[22:29:58] [Server thread/INFO]: Villager cyx['Armorer'/392, l='ServerLevel[world]', x=380.70, y=66.00, z=262.50] died, message: 'Armorer was burned to a crisp while fighting Zombie'
+[22:30:44] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=383, y=65, z=277} ja{x=383, y=66, z=276}
+[22:35:39] [Server thread/INFO]: [Not Secure] <MrCowww> dang lam` j z
+[22:35:44] [Server thread/INFO]: [Not Secure] <MinhKhoii> farm ender
+[22:35:48] [Server thread/INFO]: [Not Secure] <MinhKhoii> sao
+[22:35:53] [Server thread/INFO]: [Not Secure] <MrCowww> kh j
+[22:36:56] [Server thread/INFO]: [Not Secure] <MinhKhoii> t di kiem dinh ba day
+[22:37:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22:38:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4287ms or 85 ticks behind
+[22:38:22] [Server thread/WARN]: MinhKhoii moved too quickly! -15.261184799766937,2.6552007321166258,9.480810821442702
+[22:38:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[22:38:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[22:38:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[22:38:59] [Server thread/WARN]: MinhKhoii moved too quickly! -10.436185207297854,1.1673145068295838,14.2069692653414
+[22:39:20] [Server thread/INFO]: Villager cyx['Villager'/423, l='ServerLevel[world]', x=349.30, y=56.19, z=231.30] died, message: 'Villager was squished too much'
+[22:39:44] [Server thread/INFO]: MrCowww has made the advancement [Getting an Upgrade]
+[22:39:52] [Server thread/INFO]: [Not Secure] <MrCowww> vcc
+[22:39:54] [Server thread/INFO]: [Not Secure] <MrCowww> =)))))
+[22:39:56] [Server thread/INFO]: [Not Secure] <MinhKhoii> la sao z
+[22:40:05] [Server thread/INFO]: [Not Secure] <MrCowww> h ms co' cup' da'
+[22:40:10] [Server thread/INFO]: [Not Secure] <MinhKhoii> =)))
+[22:42:03] [Server thread/INFO]: Villager cyx['Fletcher'/388, l='ServerLevel[world]', x=380.70, y=66.00, z=270.50] died, message: 'Fletcher tried to swim in lava'
+[22:42:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2388ms or 47 ticks behind
+[22:42:57] [Server thread/WARN]: MinhKhoii moved too quickly! -10.167505781402042,4.259645696850285,-14.256770909073339
+[22:43:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5087ms or 101 ticks behind
+[22:43:15] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=65, z=270} ja{x=381, y=66, z=270}
+[22:43:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6881ms or 137 ticks behind
+[22:43:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5614ms or 112 ticks behind
+[22:44:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3368ms or 67 ticks behind
+[22:44:10] [Server thread/WARN]: MinhKhoii moved too quickly! -13.534874613327247,-4.521888459269277,10.300053081991564
+[22:44:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4916ms or 98 ticks behind
+[22:44:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6552ms or 131 ticks behind
+[22:44:50] [Server thread/WARN]: MinhKhoii moved too quickly! -2.206647552688082,9.691620756241761,-15.451255996964392
+[22:45:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5074ms or 101 ticks behind
+[22:45:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5445ms or 108 ticks behind
+[22:45:30] [Server thread/INFO]: Villager cyx['Toolsmith'/15360, l='ServerLevel[world]', x=380.70, y=66.00, z=270.66] died, message: 'Toolsmith was slain by Zombie'
+[22:45:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2355ms or 47 ticks behind
+[22:45:55] [Server thread/INFO]: Villager cyx['Toolsmith'/434, l='ServerLevel[world]', x=380.70, y=66.00, z=278.50] died, message: 'Toolsmith was slain by Zombie'
+[22:46:04] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=379, y=65, z=276} ja{x=378, y=65, z=276}
+[22:46:13] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=378, y=65, z=276} ja{x=378, y=65, z=277}
+[22:46:22] [Server thread/INFO]: Villager cyx['Toolsmith'/441, l='ServerLevel[world]', x=380.70, y=66.00, z=276.52] died, message: 'Toolsmith was slain by Zombie'
+[22:46:28] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=379, y=65, z=280} ja{x=379, y=65, z=270}
+[22:46:38] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=379, y=65, z=280} ja{x=378, y=65, z=276}
+[22:47:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[22:48:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[22:49:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[22:49:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22:50:01] [Server thread/INFO]: [Not Secure] <MinhKhoii> e
+[22:50:04] [Server thread/INFO]: [Not Secure] <MinhKhoii> ranh k
+[22:50:06] [Server thread/INFO]: [Not Secure] <MinhKhoii> cuu t
+[22:50:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22:50:10] [Server thread/INFO]: [Not Secure] <MrCowww> chi
+[22:50:20] [Server thread/INFO]: [Not Secure] <MinhKhoii> t quen ruong ender r
+[22:50:21] [Server thread/INFO]: [Not Secure] <MrCowww> cuu j
+[22:50:26] [Server thread/INFO]: [Not Secure] <MinhKhoii> t k co phao hoa
+[22:50:29] [Server thread/INFO]: [Not Secure] <MinhKhoii> =)))
+[22:50:30] [Server thread/INFO]: [Not Secure] <MrCowww> cc
+[22:50:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[22:50:34] [Server thread/WARN]: MinhKhoii moved too quickly! 16.2694429082012,1.6816065186156095,-8.500119451926139
+[22:50:39] [Server thread/INFO]: [Not Secure] <MinhKhoii> cuu t
+[22:50:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6433ms or 128 ticks behind
+[22:51:03] [Server thread/WARN]: Trying to set block entity egl@55fa3135 at position ja{x=-2203, y=55, z=1065}, but state Block{minecraft:chest}[facing=north,type=single,waterlogged=false] does not allow it
+[22:51:13] [Server thread/INFO]: Villager cyx['Villager'/440, l='ServerLevel[world]', x=349.30, y=56.19, z=231.30] died, message: 'Villager was squished too much'
+[22:51:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6248ms or 124 ticks behind
+[22:51:22] [Server thread/WARN]: MrCowww moved too quickly! -15.573632497258188,4.484071340192131,8.128197473475382
+[22:51:22] [Server thread/WARN]: MinhKhoii moved too quickly! 16.89790780651174,5.964680781478677,-3.056042237887368
+[22:51:30] [Server thread/WARN]: MrCowww moved too quickly! -16.91309564555786,1.1589163112196559,6.696322895379808
+[22:51:42] [Server thread/WARN]: MrCowww moved too quickly! -16.220719738318806,0.9974721699240234,7.119856662915822
+[22:51:53] [Server thread/WARN]: MrCowww moved too quickly! -15.893162397611889,-1.7955042700675676,7.746047979382752
+[22:52:01] [Server thread/WARN]: MrCowww moved too quickly! -16.064614125172056,-1.7314991441916305,7.713649438289167
+[22:52:09] [Server thread/WARN]: MinhKhoii moved too quickly! 16.40038284550201,3.2254701223874633,-7.097379980190908
+[22:52:09] [Server thread/WARN]: MrCowww moved too quickly! -15.989516134545738,-1.840372208859364,7.523726675651005
+[22:52:23] [Server thread/INFO]: [Not Secure] <MinhKhoii> con 4 phao hoa
+[22:52:27] [Server thread/INFO]: [Not Secure] <MinhKhoii> =)))
+[22:52:30] [Server thread/INFO]: [Not Secure] <MrCowww> dume nha ke been
+[22:52:46] [Server thread/WARN]: MrCowww moved too quickly! 13.844134080695198,2.1394569006996704,-11.576419513500468
+[22:53:34] [Server thread/INFO]: [Not Secure] <MinhKhoii> e
+[22:53:43] [Server thread/INFO]: [Not Secure] <MrCowww> j
+[22:53:59] [Server thread/INFO]: [Not Secure] <MinhKhoii> mốt đủ 3 đứa đi xây farm xương đen
+[22:54:34] [Server thread/INFO]: [Not Secure] <MinhKhoii> xây lấy nhiều nhiều sao whither đặt đèn hiệu cho nó đã
+[22:54:43] [Server thread/INFO]: [Not Secure] <MrCowww> =))
+[22:54:48] [Server thread/INFO]: [Not Secure] <MrCowww> xong lagg map
+[22:54:52] [Server thread/INFO]: [Not Secure] <MinhKhoii> =)))
+[22:54:53] [Server thread/INFO]: [Not Secure] <MrCowww> quá đã
+[22:54:58] [Server thread/INFO]: [Not Secure] <MinhKhoii> lag thế nào dc=)))
+[22:55:09] [Server thread/INFO]: [Not Secure] <MinhKhoii> máy t còn chưa lag thì máy m sao lag
+[22:55:19] [Server thread/INFO]: [Not Secure] <MinhKhoii> máy t server mà=)))
+[22:55:20] [Server thread/INFO]: [Not Secure] <MrCowww> :))??
+[22:55:31] [Server thread/INFO]: [Not Secure] <MinhKhoii> nghuuuuu
+[22:55:45] [Server thread/INFO]: [Not Secure] <MrCowww> m nghĩ máy t khỏe lắm à
+[22:56:14] [Server thread/INFO]: [Not Secure] <MinhKhoii> k lẽ máy t mở sv mà máy k hơn hả
+[22:56:15] [Server thread/INFO]: [Not Secure] <MrCowww> fps 25
+[22:56:23] [Server thread/INFO]: [Not Secure] <MinhKhoii> =)))
+[22:56:26] [Server thread/INFO]: [Not Secure] <MinhKhoii> clm
+[22:56:39] [Server thread/INFO]: [Not Secure] <MinhKhoii> sao m chơi dc hay z
+[22:57:00] [Server thread/INFO]: [Not Secure] <MrCowww> nghị lực
+[22:57:03] [Server thread/INFO]: [Not Secure] <MinhKhoii> =))))
+[23:06:18] [Server thread/INFO]: Villager cyx['Librarian'/158166, l='ServerLevel[world]', x=380.68, y=66.00, z=284.41] died, message: 'Librarian was slain by Zombie'
+[23:06:26] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=377, y=63, z=269} ja{x=379, y=65, z=284}
+[23:06:37] [Server thread/INFO]: Villager cyx['Villager'/158070, l='ServerLevel[world]', x=349.30, y=56.19, z=231.30] died, message: 'Villager was squished too much'
+[23:06:41] [Server thread/INFO]: Villager cyx['Villager'/158065, l='ServerLevel[world]', x=349.70, y=56.19, z=231.30] died, message: 'Villager was squished too much'
+[23:14:34] [Server thread/INFO]: [Not Secure] <MinhKhoii> e
+[23:14:37] [Server thread/INFO]: [Not Secure] <MrCowww> j
+[23:14:43] [Server thread/INFO]: [Not Secure] <MinhKhoii> dang lm j z
+[23:14:55] [Server thread/INFO]: [Not Secure] <MrCowww> trade nbl
+[23:15:00] [Server thread/INFO]: [Not Secure] <MinhKhoii> xong chua
+[23:15:02] [Server thread/INFO]: [Not Secure] <MinhKhoii> di ngu
+[23:15:05] [Server thread/INFO]: [Not Secure] <MrCowww> chi
+[23:15:09] [Server thread/INFO]: [Not Secure] <MrCowww> bruh
+[23:15:11] [Server thread/INFO]: [Not Secure] <MinhKhoii> buon ngu qua
+[23:15:19] [Server thread/INFO]: [Not Secure] <MinhKhoii> t2 chs
+[23:15:23] [Server thread/INFO]: [Not Secure] <MinhKhoii> =)))
+[23:15:24] [Server thread/INFO]: [Not Secure] <MrCowww> ok
+[23:15:28] [Server thread/INFO]: [Not Secure] <MrCowww> wtf
+[23:15:38] [Server thread/INFO]: MrCowww lost connection: Disconnected
+[23:15:38] [Server thread/INFO]: MrCowww left the game
+[23:15:40] [Server thread/INFO]: MinhKhoii lost connection: Disconnected
+[23:15:40] [Server thread/INFO]: MinhKhoii left the game
+[23:15:49] [Server thread/INFO]: Stopping the server
+[23:15:49] [Server thread/INFO]: Stopping server
+[23:15:49] [Server thread/INFO]: Saving players
+[23:15:49] [Server thread/INFO]: Saving worlds
+[23:15:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:15:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:15:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:15:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:15:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:15:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:15:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
