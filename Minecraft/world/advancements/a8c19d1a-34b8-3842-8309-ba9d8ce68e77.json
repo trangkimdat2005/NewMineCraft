@@ -1495,6 +1495,7 @@
       "minecraft:ghast": "2025-12-04 21:29:00 +0700",
       "minecraft:shulker": "2025-12-03 21:08:14 +0700",
       "minecraft:cave_spider": "2025-11-30 18:14:53 +0700",
+      "minecraft:piglin": "2025-12-12 14:39:06 +0700",
       "minecraft:silverfish": "2025-12-03 08:28:54 +0700",
       "minecraft:enderman": "2025-12-03 15:58:37 +0700",
       "minecraft:magma_cube": "2025-12-04 21:23:30 +0700",
@@ -3696,12 +3697,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_planks": {
-    "criteria": {
-      "has_logs": "2025-12-10 00:50:10 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-12-09 22:27:08 +0700"
@@ -3711,6 +3706,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-12-09 22:27:08 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-12-10 00:50:10 +0700"
     },
     "done": true
   },
