@@ -1,268 +1,425 @@
-[20:57:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[20:57:37] [ServerMain/INFO]: Loaded 1461 recipes
-[20:57:37] [ServerMain/INFO]: Loaded 1574 advancements
-[20:57:38] [Server thread/INFO]: Starting minecraft server version 1.21.10
-[20:57:38] [Server thread/INFO]: Loading properties
-[20:57:38] [Server thread/INFO]: Default game type: SURVIVAL
-[20:57:38] [Server thread/INFO]: Generating keypair
-[20:57:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:57:38] [Server thread/INFO]: Using default channel type
-[20:57:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:57:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:57:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:57:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:57:38] [Server thread/INFO]: Preparing level "world"
-[20:57:38] [Server thread/INFO]: Loading 0 persistent chunks...
-[20:57:38] [Server thread/INFO]: Preparing spawn area: 100%
-[20:57:38] [Server thread/INFO]: Time elapsed: 79 ms
-[20:57:38] [Server thread/INFO]: Done (0.391s)! For help, type "help"
-[20:58:38] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[21:27:10] [Server thread/INFO]: MinhKhoii[/26.107.92.215:57760] logged in with entity id 132 at (533.3613128155638, 75.0, 209.4864907981959)
-[21:27:10] [Server thread/INFO]: MinhKhoii joined the game
-[21:27:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[21:27:16] [Server thread/INFO]: MrCowww[/26.45.105.26:63109] logged in with entity id 366 at (433.5070544188452, 63.0, 214.684112518395)
-[21:27:16] [Server thread/INFO]: MrCowww joined the game
-[21:27:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9986ms or 199 ticks behind
-[21:28:16] [Server thread/INFO]: [Not Secure] <MrCowww> e
-[21:28:19] [Server thread/INFO]: [Not Secure] <MinhKhoii> j
-[21:28:21] [Server thread/INFO]: [Not Secure] <MrCowww> xay dc farm j r
-[21:28:38] [Server thread/INFO]: [Not Secure] <MinhKhoii> mia, shulker, tre, ender
-[21:28:38] [Server thread/INFO]: [Not Secure] <MrCowww> tra? giap' cho t
-[21:28:45] [Server thread/INFO]: [Not Secure] <MinhKhoii> doi sach cho t
-[21:29:01] [Server thread/INFO]: [Not Secure] <MinhKhoii> sach phu phep giap
-[21:29:03] [Server thread/INFO]: [Not Secure] <MrCowww> sach' j
-[21:29:08] [Server thread/INFO]: [Not Secure] <MinhKhoii> full
-[21:29:12] [Server thread/INFO]: [Not Secure] <MrCowww> :)?
-[21:29:20] [Server thread/INFO]: [Not Secure] <MinhKhoii> t lam bo giap k co dong gai
-[21:29:27] [Server thread/INFO]: [Not Secure] <MrCowww> lagg the' dcm
-[21:29:32] [Server thread/INFO]: [Not Secure] <MinhKhoii> co dong do shulker farm k dc
-[21:29:41] [Server thread/INFO]: [Not Secure] <MinhKhoii> mang nha t
-[21:29:44] [Server thread/INFO]: [Not Secure] <MinhKhoii> ==)))
-[21:29:51] [Server thread/INFO]: [Not Secure] <MrCowww> dc nhiu manh? shulker r
-[21:29:53] [Server thread/INFO]: [Not Secure] <MinhKhoii> full sach
-[21:30:02] [Server thread/INFO]: [Not Secure] <MinhKhoii> mac gap vo di
-[21:30:02] [Server thread/INFO]: [Not Secure] <MrCowww> co cc
-[21:30:06] [Server thread/INFO]: [Not Secure] <MinhKhoii> qua day
-[21:31:09] [Server thread/INFO]: [Not Secure] <MrCowww> vcc
-[21:31:11] [Server thread/INFO]: [Not Secure] <MinhKhoii> lay di
-[21:31:20] [Server thread/INFO]: [Not Secure] <MrCowww> lagg qua
-[21:31:24] [Server thread/INFO]: [Not Secure] <MinhKhoii> tui t co lay san r
-[21:31:44] [Server thread/INFO]: [Not Secure] <MinhKhoii> ne
-[21:31:47] [Server thread/INFO]: [Not Secure] <MinhKhoii> farm mia ne
-[21:32:09] [Server thread/INFO]: [Not Secure] <MrCowww> adu
-[21:32:38] [Server thread/INFO]: [Not Secure] <MinhKhoii> doi sach cho t
-[21:32:44] [Server thread/INFO]: [Not Secure] <MinhKhoii> t di phu phep
-[21:32:49] [Server thread/INFO]: [Not Secure] <MrCowww> ok
-[21:32:50] [Server thread/INFO]: [Not Secure] <MinhKhoii> giap lozzzz
-[21:32:53] [Server thread/WARN]: MrCowww moved too quickly! -10.29362484328243,3.989522191658935,2.9030512538183473
-[21:32:56] [Server thread/WARN]: MrCowww was kicked for floating too long!
-[21:32:56] [Server thread/INFO]: MrCowww lost connection: Flying is not enabled on this server
-[21:32:56] [Server thread/INFO]: MrCowww left the game
-[21:33:09] [Server thread/INFO]: MrCowww[/26.45.105.26:63123] logged in with entity id 9076 at (469.77652137627445, 67.64717211657566, 225.30637020710944)
-[21:33:09] [Server thread/INFO]: MrCowww joined the game
-[21:33:13] [Server thread/INFO]: [Not Secure] <MinhKhoii> vcl
-[21:33:18] [Server thread/INFO]: [Not Secure] <MrCowww> laagg
-[21:33:49] [Server thread/INFO]: [Not Secure] <MinhKhoii> doi di xong dua cho t
-[21:35:09] [Server thread/INFO]: Villager cyx['Armorer'/393, l='ServerLevel[world]', x=380.70, y=66.00, z=260.70] died, message: 'Armorer burned to death'
-[21:38:31] [Server thread/INFO]: [Not Secure] <MinhKhoii> xong chua
-[21:38:39] [Server thread/INFO]: [Not Secure] <MrCowww> chua
-[21:40:52] [Server thread/INFO]: [Not Secure] <MrCowww> e
-[21:40:58] [Server thread/INFO]: [Not Secure] <MinhKhoii> ha4
-[21:41:01] [Server thread/INFO]: [Not Secure] <MrCowww> deo co bao ve IV
-[21:41:05] [Server thread/INFO]: [Not Secure] <MinhKhoii> why
-[21:41:19] [Server thread/INFO]: [Not Secure] <MinhKhoii> ngu
-[21:41:26] [Server thread/INFO]: [Not Secure] <MrCowww> con do' set' danh' thanh` phu` thuy?
-[21:41:39] [Server thread/INFO]: [Not Secure] <MinhKhoii> vcl
-[21:41:50] [Server thread/INFO]: [Not Secure] <MinhKhoii> co bao ve 3 k
-[21:41:59] [Server thread/INFO]: [Not Secure] <MrCowww> kh
-[21:42:04] [Server thread/INFO]: [Not Secure] <MinhKhoii> vai l
-[21:42:41] [Server thread/INFO]: [Not Secure] <MinhKhoii> đổi đỡ, mốt m kiếm lại
-[21:43:03] [Server thread/INFO]: [Not Secure] <MinhKhoii> khoi bảo vệ, để đó đi mốt nào có r t lấy
-[21:45:26] [Server thread/INFO]: [Not Secure] <MinhKhoii> du chua
-[21:47:41] [Server thread/INFO]: [Not Secure] <MrCowww> thieu' moi~ bao? ve.
-[21:47:57] [Server thread/INFO]: [Not Secure] <MinhKhoii> giap kc
-[21:48:16] [Server thread/INFO]: [Not Secure] <MinhKhoii> con k
-[21:48:34] [Server thread/INFO]: [Not Secure] <MinhKhoii> còn cái nào m chưa bổ vô shulker k
-[21:48:55] [Server thread/INFO]: [Not Secure] <MrCowww> lấy gai kh
-[21:48:58] [Server thread/INFO]: [Not Secure] <MinhKhoii> k
-[21:49:07] [Server thread/INFO]: [Not Secure] <MrCowww> đủ r đó
-[21:50:11] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=272} ja{x=383, y=66, z=291}
-[21:50:56] [Server thread/INFO]: Villager cyx['Villager'/422, l='ServerLevel[world]', x=387.10, y=66.00, z=290.50] died, message: 'Villager suffocated in a wall'
-[21:51:27] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=272} ja{x=385, y=66, z=290}
-[21:52:13] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=384, y=67, z=289} ja{x=385, y=67, z=289}
-[21:52:45] [Server thread/INFO]: [Not Secure] <MinhKhoii> e
-[21:52:48] [Server thread/INFO]: [Not Secure] <MrCowww> sao
-[21:52:54] [Server thread/INFO]: [Not Secure] <MinhKhoii> đổi cho t lưu ly
-[21:53:00] [Server thread/INFO]: [Not Secure] <MinhKhoii> co k
-[21:53:02] [Server thread/INFO]: [Not Secure] <MrCowww> kh co'
-[21:53:05] [Server thread/INFO]: [Not Secure] <MinhKhoii> fuck
-[21:55:09] [Server thread/WARN]: MrCowww moved too quickly! 2.4102073673236646,-1.9042291190284146,-9.78364146801465
-[21:55:33] [Server thread/INFO]: Villager cyx['Librarian'/410, l='ServerLevel[world]', x=380.68, y=66.00, z=278.52] died, message: 'Librarian tried to swim in lava'
-[21:58:25] [Server thread/INFO]: [Not Secure] <MinhKhoii> xay farm totem di
-[21:58:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[21:58:48] [Server thread/INFO]: [Not Secure] <MrCowww> lagg
-[21:59:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[22:00:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2413ms or 48 ticks behind
-[22:00:38] [Server thread/INFO]: [Not Secure] <MinhKhoii> vcl
-[22:00:42] [Server thread/INFO]: [Not Secure] <MrCowww> j
-[22:01:04] [Server thread/INFO]: [Not Secure] <MinhKhoii> sao cổng địa ngục tới the end nó nối xuống hang r
-[22:01:12] [Server thread/INFO]: [Not Secure] <MinhKhoii> clq j z
-[22:01:23] [Server thread/INFO]: [Not Secure] <MrCowww> hỏi t
-[22:01:26] [Server thread/INFO]: [Not Secure] <MrCowww> =))
-[22:03:28] [Server thread/INFO]: Villager cyx['Villager'/425, l='ServerLevel[world]', x=349.70, y=56.19, z=231.30] died, message: 'Villager was squished too much'
-[22:05:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[22:06:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
-[22:07:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[22:08:18] [Server thread/INFO]: [Not Secure] <MinhKhoii> lam sao de lay cai dinh ba z
-[22:08:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[22:08:38] [Server thread/INFO]: [Not Secure] <MrCowww> quảng vỏ ốc cho con cầm đinh ba
-[22:08:48] [Server thread/INFO]: [Not Secure] <MinhKhoii> no k cam thi sao
-[22:08:55] [Server thread/INFO]: [Not Secure] <MrCowww> hên thì gặp đc con cho cây đinh ba
-[22:08:59] [Server thread/INFO]: [Not Secure] <MrCowww> kh thì chém
-[22:09:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[22:09:46] [Server thread/INFO]: Villager cyx['Villager'/429, l='ServerLevel[world]', x=349.70, y=56.19, z=231.70] died, message: 'Villager was squished too much'
-[22:10:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[22:10:25] [Server thread/WARN]: MinhKhoii moved too quickly! 14.563579433454208,-0.5527528519888563,-11.20115611573084
-[22:11:06] [Server thread/WARN]: MrCowww moved wrongly!
-[22:18:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[22:20:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[22:20:56] [Server thread/INFO]: [Not Secure] <MinhKhoii> e
-[22:21:00] [Server thread/INFO]: [Not Secure] <MrCowww> j
-[22:21:00] [Server thread/INFO]: [Not Secure] <MinhKhoii> dang lm j z
-[22:21:06] [Server thread/INFO]: [Not Secure] <MrCowww> kiem' bao ve
-[22:21:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[22:21:22] [Server thread/INFO]: [Not Secure] <MinhKhoii> t co r
-[22:21:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[22:23:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[22:25:45] [Server thread/INFO]: Villager cyx['Villager'/427, l='ServerLevel[world]', x=349.30, y=56.19, z=231.30] died, message: 'Villager was squished too much'
-[22:25:51] [Server thread/INFO]: Villager cyx['Villager'/426, l='ServerLevel[world]', x=349.70, y=56.19, z=231.30] died, message: 'Villager was squished too much'
-[22:25:52] [Server thread/INFO]: Villager cyx['Villager'/438, l='ServerLevel[world]', x=349.70, y=56.19, z=231.70] died, message: 'Villager was squished too much'
-[22:29:58] [Server thread/INFO]: Villager cyx['Armorer'/392, l='ServerLevel[world]', x=380.70, y=66.00, z=262.50] died, message: 'Armorer was burned to a crisp while fighting Zombie'
-[22:30:44] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=383, y=65, z=277} ja{x=383, y=66, z=276}
-[22:35:39] [Server thread/INFO]: [Not Secure] <MrCowww> dang lam` j z
-[22:35:44] [Server thread/INFO]: [Not Secure] <MinhKhoii> farm ender
-[22:35:48] [Server thread/INFO]: [Not Secure] <MinhKhoii> sao
-[22:35:53] [Server thread/INFO]: [Not Secure] <MrCowww> kh j
-[22:36:56] [Server thread/INFO]: [Not Secure] <MinhKhoii> t di kiem dinh ba day
-[22:37:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[22:38:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4287ms or 85 ticks behind
-[22:38:22] [Server thread/WARN]: MinhKhoii moved too quickly! -15.261184799766937,2.6552007321166258,9.480810821442702
-[22:38:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
-[22:38:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[22:38:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
-[22:38:59] [Server thread/WARN]: MinhKhoii moved too quickly! -10.436185207297854,1.1673145068295838,14.2069692653414
-[22:39:20] [Server thread/INFO]: Villager cyx['Villager'/423, l='ServerLevel[world]', x=349.30, y=56.19, z=231.30] died, message: 'Villager was squished too much'
-[22:39:44] [Server thread/INFO]: MrCowww has made the advancement [Getting an Upgrade]
-[22:39:52] [Server thread/INFO]: [Not Secure] <MrCowww> vcc
-[22:39:54] [Server thread/INFO]: [Not Secure] <MrCowww> =)))))
-[22:39:56] [Server thread/INFO]: [Not Secure] <MinhKhoii> la sao z
-[22:40:05] [Server thread/INFO]: [Not Secure] <MrCowww> h ms co' cup' da'
-[22:40:10] [Server thread/INFO]: [Not Secure] <MinhKhoii> =)))
-[22:42:03] [Server thread/INFO]: Villager cyx['Fletcher'/388, l='ServerLevel[world]', x=380.70, y=66.00, z=270.50] died, message: 'Fletcher tried to swim in lava'
-[22:42:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2388ms or 47 ticks behind
-[22:42:57] [Server thread/WARN]: MinhKhoii moved too quickly! -10.167505781402042,4.259645696850285,-14.256770909073339
-[22:43:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5087ms or 101 ticks behind
-[22:43:15] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=65, z=270} ja{x=381, y=66, z=270}
-[22:43:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6881ms or 137 ticks behind
-[22:43:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5614ms or 112 ticks behind
-[22:44:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3368ms or 67 ticks behind
-[22:44:10] [Server thread/WARN]: MinhKhoii moved too quickly! -13.534874613327247,-4.521888459269277,10.300053081991564
-[22:44:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4916ms or 98 ticks behind
-[22:44:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6552ms or 131 ticks behind
-[22:44:50] [Server thread/WARN]: MinhKhoii moved too quickly! -2.206647552688082,9.691620756241761,-15.451255996964392
-[22:45:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5074ms or 101 ticks behind
-[22:45:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5445ms or 108 ticks behind
-[22:45:30] [Server thread/INFO]: Villager cyx['Toolsmith'/15360, l='ServerLevel[world]', x=380.70, y=66.00, z=270.66] died, message: 'Toolsmith was slain by Zombie'
-[22:45:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2355ms or 47 ticks behind
-[22:45:55] [Server thread/INFO]: Villager cyx['Toolsmith'/434, l='ServerLevel[world]', x=380.70, y=66.00, z=278.50] died, message: 'Toolsmith was slain by Zombie'
-[22:46:04] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=379, y=65, z=276} ja{x=378, y=65, z=276}
-[22:46:13] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=378, y=65, z=276} ja{x=378, y=65, z=277}
-[22:46:22] [Server thread/INFO]: Villager cyx['Toolsmith'/441, l='ServerLevel[world]', x=380.70, y=66.00, z=276.52] died, message: 'Toolsmith was slain by Zombie'
-[22:46:28] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=379, y=65, z=280} ja{x=379, y=65, z=270}
-[22:46:38] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=379, y=65, z=280} ja{x=378, y=65, z=276}
-[22:47:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[22:48:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
-[22:49:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
-[22:49:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[22:50:01] [Server thread/INFO]: [Not Secure] <MinhKhoii> e
-[22:50:04] [Server thread/INFO]: [Not Secure] <MinhKhoii> ranh k
-[22:50:06] [Server thread/INFO]: [Not Secure] <MinhKhoii> cuu t
-[22:50:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[22:50:10] [Server thread/INFO]: [Not Secure] <MrCowww> chi
-[22:50:20] [Server thread/INFO]: [Not Secure] <MinhKhoii> t quen ruong ender r
-[22:50:21] [Server thread/INFO]: [Not Secure] <MrCowww> cuu j
-[22:50:26] [Server thread/INFO]: [Not Secure] <MinhKhoii> t k co phao hoa
-[22:50:29] [Server thread/INFO]: [Not Secure] <MinhKhoii> =)))
-[22:50:30] [Server thread/INFO]: [Not Secure] <MrCowww> cc
-[22:50:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
-[22:50:34] [Server thread/WARN]: MinhKhoii moved too quickly! 16.2694429082012,1.6816065186156095,-8.500119451926139
-[22:50:39] [Server thread/INFO]: [Not Secure] <MinhKhoii> cuu t
-[22:50:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6433ms or 128 ticks behind
-[22:51:03] [Server thread/WARN]: Trying to set block entity egl@55fa3135 at position ja{x=-2203, y=55, z=1065}, but state Block{minecraft:chest}[facing=north,type=single,waterlogged=false] does not allow it
-[22:51:13] [Server thread/INFO]: Villager cyx['Villager'/440, l='ServerLevel[world]', x=349.30, y=56.19, z=231.30] died, message: 'Villager was squished too much'
-[22:51:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6248ms or 124 ticks behind
-[22:51:22] [Server thread/WARN]: MrCowww moved too quickly! -15.573632497258188,4.484071340192131,8.128197473475382
-[22:51:22] [Server thread/WARN]: MinhKhoii moved too quickly! 16.89790780651174,5.964680781478677,-3.056042237887368
-[22:51:30] [Server thread/WARN]: MrCowww moved too quickly! -16.91309564555786,1.1589163112196559,6.696322895379808
-[22:51:42] [Server thread/WARN]: MrCowww moved too quickly! -16.220719738318806,0.9974721699240234,7.119856662915822
-[22:51:53] [Server thread/WARN]: MrCowww moved too quickly! -15.893162397611889,-1.7955042700675676,7.746047979382752
-[22:52:01] [Server thread/WARN]: MrCowww moved too quickly! -16.064614125172056,-1.7314991441916305,7.713649438289167
-[22:52:09] [Server thread/WARN]: MinhKhoii moved too quickly! 16.40038284550201,3.2254701223874633,-7.097379980190908
-[22:52:09] [Server thread/WARN]: MrCowww moved too quickly! -15.989516134545738,-1.840372208859364,7.523726675651005
-[22:52:23] [Server thread/INFO]: [Not Secure] <MinhKhoii> con 4 phao hoa
-[22:52:27] [Server thread/INFO]: [Not Secure] <MinhKhoii> =)))
-[22:52:30] [Server thread/INFO]: [Not Secure] <MrCowww> dume nha ke been
-[22:52:46] [Server thread/WARN]: MrCowww moved too quickly! 13.844134080695198,2.1394569006996704,-11.576419513500468
-[22:53:34] [Server thread/INFO]: [Not Secure] <MinhKhoii> e
-[22:53:43] [Server thread/INFO]: [Not Secure] <MrCowww> j
-[22:53:59] [Server thread/INFO]: [Not Secure] <MinhKhoii> mốt đủ 3 đứa đi xây farm xương đen
-[22:54:34] [Server thread/INFO]: [Not Secure] <MinhKhoii> xây lấy nhiều nhiều sao whither đặt đèn hiệu cho nó đã
-[22:54:43] [Server thread/INFO]: [Not Secure] <MrCowww> =))
-[22:54:48] [Server thread/INFO]: [Not Secure] <MrCowww> xong lagg map
-[22:54:52] [Server thread/INFO]: [Not Secure] <MinhKhoii> =)))
-[22:54:53] [Server thread/INFO]: [Not Secure] <MrCowww> quá đã
-[22:54:58] [Server thread/INFO]: [Not Secure] <MinhKhoii> lag thế nào dc=)))
-[22:55:09] [Server thread/INFO]: [Not Secure] <MinhKhoii> máy t còn chưa lag thì máy m sao lag
-[22:55:19] [Server thread/INFO]: [Not Secure] <MinhKhoii> máy t server mà=)))
-[22:55:20] [Server thread/INFO]: [Not Secure] <MrCowww> :))??
-[22:55:31] [Server thread/INFO]: [Not Secure] <MinhKhoii> nghuuuuu
-[22:55:45] [Server thread/INFO]: [Not Secure] <MrCowww> m nghĩ máy t khỏe lắm à
-[22:56:14] [Server thread/INFO]: [Not Secure] <MinhKhoii> k lẽ máy t mở sv mà máy k hơn hả
-[22:56:15] [Server thread/INFO]: [Not Secure] <MrCowww> fps 25
-[22:56:23] [Server thread/INFO]: [Not Secure] <MinhKhoii> =)))
-[22:56:26] [Server thread/INFO]: [Not Secure] <MinhKhoii> clm
-[22:56:39] [Server thread/INFO]: [Not Secure] <MinhKhoii> sao m chơi dc hay z
-[22:57:00] [Server thread/INFO]: [Not Secure] <MrCowww> nghị lực
-[22:57:03] [Server thread/INFO]: [Not Secure] <MinhKhoii> =))))
-[23:06:18] [Server thread/INFO]: Villager cyx['Librarian'/158166, l='ServerLevel[world]', x=380.68, y=66.00, z=284.41] died, message: 'Librarian was slain by Zombie'
-[23:06:26] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=377, y=63, z=269} ja{x=379, y=65, z=284}
-[23:06:37] [Server thread/INFO]: Villager cyx['Villager'/158070, l='ServerLevel[world]', x=349.30, y=56.19, z=231.30] died, message: 'Villager was squished too much'
-[23:06:41] [Server thread/INFO]: Villager cyx['Villager'/158065, l='ServerLevel[world]', x=349.70, y=56.19, z=231.30] died, message: 'Villager was squished too much'
-[23:14:34] [Server thread/INFO]: [Not Secure] <MinhKhoii> e
-[23:14:37] [Server thread/INFO]: [Not Secure] <MrCowww> j
-[23:14:43] [Server thread/INFO]: [Not Secure] <MinhKhoii> dang lm j z
-[23:14:55] [Server thread/INFO]: [Not Secure] <MrCowww> trade nbl
-[23:15:00] [Server thread/INFO]: [Not Secure] <MinhKhoii> xong chua
-[23:15:02] [Server thread/INFO]: [Not Secure] <MinhKhoii> di ngu
-[23:15:05] [Server thread/INFO]: [Not Secure] <MrCowww> chi
-[23:15:09] [Server thread/INFO]: [Not Secure] <MrCowww> bruh
-[23:15:11] [Server thread/INFO]: [Not Secure] <MinhKhoii> buon ngu qua
-[23:15:19] [Server thread/INFO]: [Not Secure] <MinhKhoii> t2 chs
-[23:15:23] [Server thread/INFO]: [Not Secure] <MinhKhoii> =)))
-[23:15:24] [Server thread/INFO]: [Not Secure] <MrCowww> ok
-[23:15:28] [Server thread/INFO]: [Not Secure] <MrCowww> wtf
-[23:15:38] [Server thread/INFO]: MrCowww lost connection: Disconnected
-[23:15:38] [Server thread/INFO]: MrCowww left the game
-[23:15:40] [Server thread/INFO]: MinhKhoii lost connection: Disconnected
-[23:15:40] [Server thread/INFO]: MinhKhoii left the game
-[23:15:49] [Server thread/INFO]: Stopping the server
-[23:15:49] [Server thread/INFO]: Stopping server
-[23:15:49] [Server thread/INFO]: Saving players
-[23:15:49] [Server thread/INFO]: Saving worlds
-[23:15:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:15:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:15:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:15:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:15:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:15:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:15:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:22:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[19:22:50] [ServerMain/INFO]: Loaded 1461 recipes
+[19:22:50] [ServerMain/INFO]: Loaded 1574 advancements
+[19:22:51] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[19:22:51] [Server thread/INFO]: Loading properties
+[19:22:51] [Server thread/INFO]: Default game type: SURVIVAL
+[19:22:51] [Server thread/INFO]: Generating keypair
+[19:22:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:22:52] [Server thread/INFO]: Using default channel type
+[19:22:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:22:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:22:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:22:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:22:52] [Server thread/INFO]: Preparing level "world"
+[19:22:54] [Server thread/INFO]: Loading 0 persistent chunks...
+[19:22:54] [Server thread/INFO]: Preparing spawn area: 100%
+[19:22:54] [Server thread/INFO]: Time elapsed: 388 ms
+[19:22:54] [Server thread/INFO]: Done (1.934s)! For help, type "help"
+[19:23:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:25:32] [Server thread/INFO]: MinhKhoii[/26.107.92.215:62742] logged in with entity id 222 at (403.2594035549332, 64.0, 239.92776267620397)
+[19:25:32] [Server thread/INFO]: MinhKhoii joined the game
+[19:25:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2226ms or 44 ticks behind
+[19:25:43] [Server thread/WARN]: MinhKhoii moved too quickly! 0.0,-129.01903315390643,0.0
+[19:26:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12608ms or 252 ticks behind
+[19:26:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[19:27:32] [Server thread/INFO]: MrCowww[/26.45.105.26:56465] logged in with entity id 2338 at (383.82745876684646, 66.0, 270.9773009787771)
+[19:27:32] [Server thread/INFO]: MrCowww joined the game
+[19:28:01] [Server thread/INFO]: [Not Secure] <MinhKhoii> nguuuuu
+[19:28:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[19:29:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[19:29:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4328ms or 86 ticks behind
+[19:29:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[19:30:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[19:30:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2705ms or 54 ticks behind
+[19:30:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3277ms or 65 ticks behind
+[19:31:09] [Server thread/WARN]: MinhKhoii moved too quickly! 17.755300217986132,3.174770935644875,1.145327540894506
+[19:31:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3056ms or 61 ticks behind
+[19:31:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[19:32:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:32:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19:33:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19:34:29] [Server thread/INFO]: Villager cyx['Villager'/246, l='ServerLevel[world]', x=349.30, y=56.19, z=231.30] died, message: 'Villager was squished too much'
+[19:35:05] [Server thread/INFO]: Villager cyx['Villager'/243, l='ServerLevel[world]', x=349.70, y=56.19, z=231.70] died, message: 'Villager was squished too much'
+[19:35:25] [Server thread/INFO]: Villager cyx['Villager'/259, l='ServerLevel[world]', x=349.70, y=56.19, z=231.30] died, message: 'Villager was squished too much'
+[19:36:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19:36:21] [Server thread/WARN]: MinhKhoii moved too quickly! 7.2388892792964725,-2.3082733494021994,16.686986147017393
+[19:37:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:39:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[19:40:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[19:43:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19:43:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[19:43:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[19:44:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:44:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2263ms or 45 ticks behind
+[19:44:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[19:44:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2393ms or 47 ticks behind
+[19:45:04] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=386, y=67, z=93} ja{x=384, y=66, z=93}
+[19:45:07] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=390, y=65, z=93} ja{x=392, y=64, z=94}
+[19:45:07] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=390, y=65, z=93} ja{x=392, y=64, z=94}
+[19:45:07] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=390, y=65, z=93} ja{x=392, y=64, z=94}
+[19:45:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[19:45:22] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=403, y=72, z=95} ja{x=402, y=71, z=95}
+[19:45:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2197ms or 43 ticks behind
+[19:45:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2390ms or 47 ticks behind
+[19:46:08] [Server thread/INFO]: Villager cyx['Villager'/245, l='ServerLevel[world]', x=349.70, y=56.19, z=231.70] died, message: 'Villager was squished too much'
+[19:46:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3279ms or 65 ticks behind
+[19:46:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2691ms or 53 ticks behind
+[19:46:27] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=421, y=72, z=100} ja{x=420, y=71, z=99}
+[19:46:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2779ms or 55 ticks behind
+[19:47:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2593ms or 51 ticks behind
+[19:47:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2321ms or 46 ticks behind
+[19:47:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3735ms or 74 ticks behind
+[19:47:39] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=411, y=73, z=82} ja{x=410, y=73, z=79}
+[19:47:39] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=411, y=73, z=82} ja{x=410, y=73, z=79}
+[19:47:39] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=411, y=73, z=82} ja{x=410, y=73, z=79}
+[19:47:39] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=411, y=73, z=82} ja{x=410, y=73, z=79}
+[19:47:39] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=411, y=73, z=82} ja{x=410, y=73, z=79}
+[19:47:39] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=411, y=73, z=82} ja{x=410, y=73, z=79}
+[19:47:39] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=411, y=73, z=82} ja{x=410, y=73, z=79}
+[19:47:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3244ms or 64 ticks behind
+[19:48:03] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=403, y=71, z=77} ja{x=406, y=71, z=75}
+[19:48:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3894ms or 77 ticks behind
+[19:49:07] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=360, y=59, z=82} ja{x=360, y=60, z=82}
+[19:49:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[19:49:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[19:50:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[19:50:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[19:51:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5044ms or 100 ticks behind
+[19:51:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5188ms or 103 ticks behind
+[19:51:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5061ms or 101 ticks behind
+[19:52:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3409ms or 68 ticks behind
+[19:52:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2751ms or 55 ticks behind
+[19:52:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3725ms or 74 ticks behind
+[19:53:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4318ms or 86 ticks behind
+[19:53:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4931ms or 98 ticks behind
+[19:53:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3961ms or 79 ticks behind
+[19:53:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3765ms or 75 ticks behind
+[19:54:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[19:54:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[19:55:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3205ms or 64 ticks behind
+[19:55:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[19:55:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[19:56:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2393ms or 47 ticks behind
+[19:56:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[19:56:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[19:57:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2497ms or 49 ticks behind
+[19:57:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[19:57:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2256ms or 45 ticks behind
+[19:58:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19:58:20] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=384, y=69, z=110} ja{x=386, y=70, z=113}
+[19:58:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2738ms or 54 ticks behind
+[19:58:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3893ms or 77 ticks behind
+[19:59:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4827ms or 96 ticks behind
+[19:59:06] [Server thread/INFO]: Villager cyx['Villager'/254, l='ServerLevel[world]', x=349.70, y=56.19, z=231.70] died, message: 'Villager was squished too much'
+[19:59:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4223ms or 84 ticks behind
+[19:59:23] [Server thread/INFO]: Villager cyx['Villager'/249, l='ServerLevel[world]', x=349.70, y=56.19, z=231.70] died, message: 'Villager was squished too much'
+[19:59:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3597ms or 71 ticks behind
+[19:59:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3193ms or 63 ticks behind
+[20:00:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2906ms or 58 ticks behind
+[20:00:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3733ms or 74 ticks behind
+[20:00:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3543ms or 70 ticks behind
+[20:00:59] [Server thread/WARN]: MrCowww moved too quickly! -8.667778166753124,1.5250894260567378,15.943158403996904
+[20:00:59] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=399, y=64, z=71} ja{x=399, y=63, z=70}
+[20:01:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4840ms or 96 ticks behind
+[20:01:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3195ms or 63 ticks behind
+[20:01:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3887ms or 77 ticks behind
+[20:02:01] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=400, y=65, z=87} ja{x=401, y=64, z=87}
+[20:02:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4140ms or 82 ticks behind
+[20:02:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3860ms or 77 ticks behind
+[20:02:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3340ms or 66 ticks behind
+[20:03:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3157ms or 63 ticks behind
+[20:03:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4194ms or 83 ticks behind
+[20:03:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5027ms or 100 ticks behind
+[20:04:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4128ms or 82 ticks behind
+[20:04:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[20:04:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4313ms or 86 ticks behind
+[20:04:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4218ms or 84 ticks behind
+[20:05:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2748ms or 54 ticks behind
+[20:05:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
+[20:05:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2485ms or 49 ticks behind
+[20:06:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2620ms or 52 ticks behind
+[20:06:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2591ms or 51 ticks behind
+[20:06:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4508ms or 90 ticks behind
+[20:07:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7284ms or 145 ticks behind
+[20:07:12] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=376, y=64, z=114} ja{x=377, y=64, z=114}
+[20:07:24] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=381, y=65, z=98} ja{x=382, y=64, z=97}
+[20:07:24] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=381, y=66, z=99} ja{x=382, y=66, z=99}
+[20:07:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6040ms or 120 ticks behind
+[20:07:31] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=384, y=68, z=91} ja{x=384, y=66, z=93}
+[20:07:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6907ms or 138 ticks behind
+[20:08:01] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=371, y=66, z=81} ja{x=371, y=67, z=81}
+[20:08:07] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=367, y=67, z=73} ja{x=368, y=66, z=74}
+[20:08:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5740ms or 114 ticks behind
+[20:08:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6165ms or 123 ticks behind
+[20:08:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6058ms or 121 ticks behind
+[20:09:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6716ms or 134 ticks behind
+[20:09:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3574ms or 71 ticks behind
+[20:09:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4776ms or 95 ticks behind
+[20:10:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5022ms or 100 ticks behind
+[20:10:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4681ms or 93 ticks behind
+[20:10:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4503ms or 90 ticks behind
+[20:11:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4252ms or 85 ticks behind
+[20:11:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3888ms or 77 ticks behind
+[20:11:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3937ms or 78 ticks behind
+[20:12:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[20:12:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2601ms or 52 ticks behind
+[20:12:47] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=419, y=72, z=80} ja{x=420, y=72, z=76}
+[20:12:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2843ms or 56 ticks behind
+[20:13:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3159ms or 63 ticks behind
+[20:13:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2992ms or 59 ticks behind
+[20:13:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20:14:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2945ms or 58 ticks behind
+[20:14:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4273ms or 85 ticks behind
+[20:14:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5259ms or 105 ticks behind
+[20:14:48] [Server thread/INFO]: Villager cyx['Villager'/260, l='ServerLevel[world]', x=349.30, y=56.19, z=231.70] died, message: 'Villager was squished too much'
+[20:14:57] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=397, y=69, z=66} ja{x=396, y=69, z=65}
+[20:15:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3831ms or 76 ticks behind
+[20:15:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3662ms or 73 ticks behind
+[20:15:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5436ms or 108 ticks behind
+[20:16:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4733ms or 94 ticks behind
+[20:16:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4830ms or 96 ticks behind
+[20:16:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4059ms or 81 ticks behind
+[20:17:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5233ms or 104 ticks behind
+[20:17:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4224ms or 84 ticks behind
+[20:17:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3450ms or 69 ticks behind
+[20:18:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4769ms or 95 ticks behind
+[20:18:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4352ms or 87 ticks behind
+[20:18:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4534ms or 90 ticks behind
+[20:19:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4458ms or 89 ticks behind
+[20:19:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4196ms or 83 ticks behind
+[20:19:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4054ms or 81 ticks behind
+[20:19:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[20:20:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[20:20:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[20:22:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20:22:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4123ms or 82 ticks behind
+[20:22:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4359ms or 87 ticks behind
+[20:23:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5188ms or 103 ticks behind
+[20:23:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3260ms or 65 ticks behind
+[20:23:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[20:24:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
+[20:24:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2987ms or 59 ticks behind
+[20:24:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3761ms or 75 ticks behind
+[20:25:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4778ms or 95 ticks behind
+[20:25:16] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=400, y=66, z=65} ja{x=400, y=65, z=66}
+[20:25:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4918ms or 98 ticks behind
+[20:25:28] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=399, y=65, z=67} ja{x=399, y=64, z=68}
+[20:25:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5749ms or 114 ticks behind
+[20:25:51] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=397, y=65, z=53} ja{x=396, y=65, z=53}
+[20:25:51] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=397, y=65, z=53} ja{x=396, y=65, z=53}
+[20:26:06] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=398, y=66, z=48} ja{x=398, y=64, z=48}
+[20:26:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5074ms or 101 ticks behind
+[20:26:12] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=393, y=65, z=52} ja{x=394, y=63, z=53}
+[20:26:23] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=397, y=64, z=43} ja{x=397, y=63, z=44}
+[20:26:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4590ms or 91 ticks behind
+[20:26:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5570ms or 111 ticks behind
+[20:27:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5192ms or 103 ticks behind
+[20:27:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4019ms or 80 ticks behind
+[20:27:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[20:28:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[20:28:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2519ms or 50 ticks behind
+[20:29:10] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=381, y=71, z=76} ja{x=381, y=69, z=80}
+[20:29:10] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=381, y=71, z=76} ja{x=381, y=69, z=80}
+[20:29:10] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=381, y=71, z=76} ja{x=381, y=69, z=80}
+[20:29:10] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=381, y=71, z=76} ja{x=381, y=69, z=80}
+[20:29:10] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=381, y=71, z=76} ja{x=381, y=69, z=80}
+[20:29:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2427ms or 48 ticks behind
+[20:29:13] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=381, y=71, z=79} ja{x=380, y=70, z=79}
+[20:29:15] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=72, z=79} ja{x=380, y=70, z=80}
+[20:29:24] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=76} ja{x=379, y=68, z=73}
+[20:29:24] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=76} ja{x=379, y=68, z=73}
+[20:29:24] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=76} ja{x=379, y=68, z=73}
+[20:29:25] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=76} ja{x=379, y=68, z=73}
+[20:29:25] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=76} ja{x=379, y=68, z=73}
+[20:29:25] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=76} ja{x=379, y=68, z=73}
+[20:29:25] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=76} ja{x=379, y=68, z=73}
+[20:29:25] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=76} ja{x=379, y=68, z=73}
+[20:29:25] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=76} ja{x=379, y=68, z=73}
+[20:29:25] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=76} ja{x=379, y=68, z=73}
+[20:29:25] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=76} ja{x=379, y=68, z=73}
+[20:29:25] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=76} ja{x=379, y=68, z=73}
+[20:29:25] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=76} ja{x=379, y=68, z=73}
+[20:29:25] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=76} ja{x=379, y=68, z=73}
+[20:29:25] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=76} ja{x=379, y=68, z=73}
+[20:29:25] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=76} ja{x=379, y=68, z=73}
+[20:29:25] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=76} ja{x=379, y=68, z=73}
+[20:29:25] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=76} ja{x=379, y=68, z=73}
+[20:29:25] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=76} ja{x=379, y=68, z=73}
+[20:29:25] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=380, y=69, z=76} ja{x=379, y=68, z=73}
+[20:29:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3002ms or 60 ticks behind
+[20:29:43] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=386, y=67, z=58} ja{x=386, y=65, z=58}
+[20:29:43] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=386, y=68, z=58} ja{x=386, y=65, z=58}
+[20:29:47] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=383, y=65, z=60} ja{x=383, y=64, z=60}
+[20:29:48] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=384, y=64, z=58} ja{x=384, y=63, z=60}
+[20:30:03] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=382, y=65, z=62} ja{x=383, y=65, z=62}
+[20:30:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[20:30:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3943ms or 78 ticks behind
+[20:30:47] [Server thread/INFO]: Villager cyx['Villager'/256, l='ServerLevel[world]', x=349.30, y=56.19, z=231.30] died, message: 'Villager was squished too much'
+[20:30:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4049ms or 80 ticks behind
+[20:31:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3233ms or 64 ticks behind
+[20:31:16] [Server thread/INFO]: Villager cyx['Villager'/244, l='ServerLevel[world]', x=349.70, y=56.19, z=231.30] died, message: 'Villager was squished too much'
+[20:31:28] [Server thread/INFO]: [Not Secure] <MrCowww> 33 128 19
+[20:31:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5892ms or 117 ticks behind
+[20:31:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4838ms or 96 ticks behind
+[20:32:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4477ms or 89 ticks behind
+[20:32:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4661ms or 93 ticks behind
+[20:32:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2842ms or 56 ticks behind
+[20:32:58] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=396, y=60, z=68} ja{x=395, y=59, z=66}
+[20:33:04] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=392, y=61, z=60} ja{x=393, y=60, z=59}
+[20:33:08] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=392, y=62, z=57} ja{x=392, y=61, z=56}
+[20:33:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[20:34:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7274ms or 145 ticks behind
+[20:34:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5764ms or 115 ticks behind
+[20:34:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6246ms or 124 ticks behind
+[20:35:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6381ms or 127 ticks behind
+[20:35:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[20:35:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4450ms or 89 ticks behind
+[20:36:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5861ms or 117 ticks behind
+[20:36:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4244ms or 84 ticks behind
+[20:36:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5282ms or 105 ticks behind
+[20:37:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5292ms or 105 ticks behind
+[20:43:44] [Server thread/INFO]: MrCowww has made the advancement [Spooky Scary Skeleton]
+[20:45:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
+[20:46:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2944ms or 58 ticks behind
+[20:46:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2846ms or 56 ticks behind
+[20:50:43] [Server thread/INFO]: [Not Secure] <MrCowww> 101 98 -541
+[20:52:36] [Server thread/INFO]: MinhKhoii has made the advancement [Those Were the Days]
+[20:53:27] [Server thread/WARN]: MrCowww moved too quickly! -8.428669955586887,-0.44466686013019796,16.214030564725988
+[20:54:24] [Server thread/INFO]: MinhKhoii has made the advancement [War Pigs]
+[20:56:19] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-441, y=92, z=131} ja{x=-441, y=92, z=132}
+[20:56:19] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-441, y=92, z=131} ja{x=-441, y=92, z=132}
+[20:56:19] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-440, y=93, z=132} ja{x=-440, y=93, z=133}
+[20:57:55] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-20, y=33, z=-239} ja{x=-20, y=31, z=-239}
+[20:57:55] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-20, y=33, z=-239} ja{x=-20, y=31, z=-239}
+[20:57:55] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-20, y=33, z=-239} ja{x=-20, y=31, z=-239}
+[20:57:55] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-20, y=33, z=-239} ja{x=-20, y=31, z=-239}
+[21:05:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21:05:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3201ms or 64 ticks behind
+[21:06:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2274ms or 45 ticks behind
+[21:06:17] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=439, y=19, z=-433} ja{x=439, y=20, z=-433}
+[21:06:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2841ms or 56 ticks behind
+[21:06:37] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=451, y=7, z=-433} ja{x=452, y=6, z=-433}
+[21:06:37] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=451, y=7, z=-433} ja{x=452, y=6, z=-433}
+[21:06:37] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=451, y=7, z=-433} ja{x=452, y=6, z=-433}
+[21:06:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3175ms or 63 ticks behind
+[21:07:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[21:07:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21:08:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[21:08:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2378ms or 47 ticks behind
+[21:08:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
+[21:08:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[21:09:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
+[21:09:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[21:09:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2729ms or 54 ticks behind
+[21:10:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[21:10:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2439ms or 48 ticks behind
+[21:10:31] [Server thread/INFO]: MrCowww lost connection: Disconnected
+[21:10:31] [Server thread/INFO]: MrCowww left the game
+[21:13:02] [Server thread/INFO]: MrCowww[/26.45.105.26:56851] logged in with entity id 151991 at (397.03286812167147, 63.0, 243.16304187944806)
+[21:13:02] [Server thread/INFO]: MrCowww joined the game
+[21:13:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[21:13:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4718ms or 94 ticks behind
+[21:13:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3657ms or 73 ticks behind
+[21:14:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2965ms or 59 ticks behind
+[21:14:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3263ms or 65 ticks behind
+[21:14:39] [Server thread/INFO]: Villager cyx['Villager'/151766, l='ServerLevel[world]', x=349.30, y=56.19, z=231.30] died, message: 'Villager was squished too much'
+[21:14:41] [Server thread/INFO]: Villager cyx['Villager'/151761, l='ServerLevel[world]', x=349.70, y=56.19, z=231.70] died, message: 'Villager was squished too much'
+[21:14:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2458ms or 49 ticks behind
+[21:15:12] [Server thread/INFO]: MinhKhoii has made the advancement [Hidden in the Depths]
+[21:15:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21:16:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[21:17:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3013ms or 60 ticks behind
+[21:17:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3806ms or 76 ticks behind
+[21:17:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3935ms or 78 ticks behind
+[21:18:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4227ms or 84 ticks behind
+[21:18:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3232ms or 64 ticks behind
+[21:18:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4012ms or 80 ticks behind
+[21:19:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3136ms or 62 ticks behind
+[21:19:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[21:19:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4076ms or 81 ticks behind
+[21:20:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3028ms or 60 ticks behind
+[21:20:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4765ms or 95 ticks behind
+[21:20:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4038ms or 80 ticks behind
+[21:21:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3347ms or 66 ticks behind
+[21:21:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6134ms or 122 ticks behind
+[21:21:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4055ms or 81 ticks behind
+[21:22:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5462ms or 109 ticks behind
+[21:22:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5533ms or 110 ticks behind
+[21:22:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[21:23:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3227ms or 64 ticks behind
+[21:23:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2776ms or 55 ticks behind
+[21:23:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3646ms or 72 ticks behind
+[21:23:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4401ms or 88 ticks behind
+[21:24:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4047ms or 80 ticks behind
+[21:24:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3503ms or 70 ticks behind
+[21:24:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4605ms or 92 ticks behind
+[21:25:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4630ms or 92 ticks behind
+[21:25:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4814ms or 96 ticks behind
+[21:25:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5687ms or 113 ticks behind
+[21:26:06] [Server thread/INFO]: Villager cyx['Villager'/151763, l='ServerLevel[world]', x=349.30, y=56.19, z=231.30] died, message: 'Villager was squished too much'
+[21:26:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4383ms or 87 ticks behind
+[21:26:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4211ms or 84 ticks behind
+[21:26:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4693ms or 93 ticks behind
+[21:27:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4445ms or 88 ticks behind
+[21:27:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4912ms or 98 ticks behind
+[21:27:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4571ms or 91 ticks behind
+[21:28:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5753ms or 115 ticks behind
+[21:28:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[21:28:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4828ms or 96 ticks behind
+[21:29:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7685ms or 153 ticks behind
+[21:29:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5763ms or 115 ticks behind
+[21:29:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5201ms or 104 ticks behind
+[21:29:58] [Server thread/INFO]: Villager cyx['Villager'/151769, l='ServerLevel[world]', x=349.30, y=56.19, z=231.70] died, message: 'Villager was squished too much'
+[21:30:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4977ms or 99 ticks behind
+[21:30:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21:30:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2237ms or 44 ticks behind
+[21:31:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[21:31:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:32:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[21:33:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4434ms or 88 ticks behind
+[21:33:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4081ms or 81 ticks behind
+[21:33:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4530ms or 90 ticks behind
+[21:34:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4534ms or 90 ticks behind
+[21:34:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4937ms or 98 ticks behind
+[21:41:17] [Server thread/INFO]: MrCowww lost connection: Disconnected
+[21:41:18] [Server thread/INFO]: MrCowww left the game
+[21:45:11] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=577, y=14, z=-759} ja{x=478, y=14, z=-759}
+[21:45:11] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=577, y=14, z=-759} ja{x=478, y=14, z=-759}
+[21:45:31] [Server thread/INFO]: MrCowww[/26.45.105.26:49781] logged in with entity id 189857 at (388.7229754222956, 68.0, 104.88980744234875)
+[21:45:31] [Server thread/INFO]: MrCowww joined the game
+[21:48:24] [Server thread/INFO]: MrCowww lost connection: Disconnected
+[21:48:24] [Server thread/INFO]: MrCowww left the game
+[21:56:38] [Server thread/INFO]: MrCowww[/26.45.105.26:49800] logged in with entity id 195896 at (397.69999998807907, 60.0, 83.37469459409195)
+[21:56:38] [Server thread/INFO]: MrCowww joined the game
+[22:02:10] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=466, y=15, z=-716} ja{x=466, y=14, z=-717}
+[22:02:10] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=466, y=15, z=-716} ja{x=464, y=12, z=-716}
+[22:02:10] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=466, y=15, z=-716} ja{x=464, y=12, z=-716}
+[22:02:10] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=466, y=15, z=-716} ja{x=464, y=12, z=-716}
+[22:21:27] [Server thread/INFO]: [Not Secure] <MrCowww> t out discord
+[22:21:31] [Server thread/INFO]: [Not Secure] <MinhKhoii> wwhy
+[22:21:31] [Server thread/INFO]: [Not Secure] <MrCowww> og t ngu
+[22:21:35] [Server thread/INFO]: [Not Secure] <MinhKhoii> ok
+[22:32:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6849ms or 136 ticks behind
+[22:32:55] [Server thread/INFO]: [Not Secure] <MrCowww> lagg the
+[22:33:00] [Server thread/INFO]: [Not Secure] <MrCowww> dm xem seg a
+[22:33:02] [Server thread/INFO]: [Not Secure] <MinhKhoii> k
+[22:33:17] [Server thread/INFO]: [Not Secure] <MinhKhoii> moi ve overworld
+[22:36:32] [Server thread/INFO]: [Not Secure] <MrCowww> dmmmmmmmmmm may con blaze loz
+[22:37:18] [Server thread/INFO]: [Not Secure] <MrCowww> e chac t off
+[22:37:22] [Server thread/INFO]: [Not Secure] <MrCowww> buon ngu qua
+[22:37:30] [Server thread/INFO]: MrCowww lost connection: Disconnected
+[22:37:30] [Server thread/INFO]: MrCowww left the game
+[22:37:55] [Server thread/INFO]: MinhKhoii lost connection: Disconnected
+[22:37:55] [Server thread/INFO]: MinhKhoii left the game
+[22:38:07] [Server thread/INFO]: Stopping the server
+[22:38:07] [Server thread/INFO]: Stopping server
+[22:38:07] [Server thread/INFO]: Saving players
+[22:38:07] [Server thread/INFO]: Saving worlds
+[22:38:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:38:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:38:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:38:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:38:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:38:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:38:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
