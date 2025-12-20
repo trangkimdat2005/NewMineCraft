@@ -7,25 +7,32 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:flower_forest": "2025-12-01 21:35:32 +0700",
-      "minecraft:beach": "2025-12-01 16:08:04 +0700",
+      "minecraft:cold_ocean": "2025-12-19 12:52:41 +0700",
       "minecraft:old_growth_pine_taiga": "2025-12-01 22:16:27 +0700",
       "minecraft:forest": "2025-12-01 16:07:09 +0700",
       "minecraft:taiga": "2025-12-01 21:53:43 +0700",
       "minecraft:deep_ocean": "2025-12-02 23:41:10 +0700",
-      "minecraft:river": "2025-12-01 16:09:30 +0700",
-      "minecraft:lukewarm_ocean": "2025-12-02 23:45:08 +0700",
-      "minecraft:old_growth_birch_forest": "2025-12-02 23:44:37 +0700",
+      "minecraft:frozen_river": "2025-12-19 18:10:46 +0700",
       "minecraft:ocean": "2025-12-01 16:08:13 +0700",
       "minecraft:sunflower_plains": "2025-12-01 21:33:52 +0700",
       "minecraft:cherry_grove": "2025-12-01 22:25:46 +0700",
-      "minecraft:swamp": "2025-12-02 23:43:26 +0700",
-      "minecraft:meadow": "2025-12-01 22:17:12 +0700",
+      "minecraft:birch_forest": "2025-12-19 18:22:00 +0700",
       "minecraft:windswept_hills": "2025-12-04 17:44:54 +0700",
       "minecraft:bamboo_jungle": "2025-12-18 20:36:04 +0700",
       "minecraft:windswept_savanna": "2025-12-04 17:50:16 +0700",
-      "minecraft:plains": "2025-12-01 16:09:41 +0700",
-      "minecraft:deep_lukewarm_ocean": "2025-12-02 23:52:11 +0700"
+      "minecraft:deep_lukewarm_ocean": "2025-12-02 23:52:11 +0700",
+      "minecraft:flower_forest": "2025-12-01 21:35:32 +0700",
+      "minecraft:beach": "2025-12-01 16:08:04 +0700",
+      "minecraft:river": "2025-12-01 16:09:30 +0700",
+      "minecraft:lukewarm_ocean": "2025-12-02 23:45:08 +0700",
+      "minecraft:stony_shore": "2025-12-19 12:52:47 +0700",
+      "minecraft:snowy_plains": "2025-12-19 18:10:47 +0700",
+      "minecraft:snowy_taiga": "2025-12-19 18:10:33 +0700",
+      "minecraft:old_growth_birch_forest": "2025-12-02 23:44:37 +0700",
+      "minecraft:swamp": "2025-12-02 23:43:26 +0700",
+      "minecraft:meadow": "2025-12-01 22:17:12 +0700",
+      "minecraft:windswept_gravelly_hills": "2025-12-19 18:09:09 +0700",
+      "minecraft:plains": "2025-12-01 16:09:41 +0700"
     },
     "done": false
   },
@@ -881,6 +888,7 @@
       "minecraft:wither_skeleton": "2025-12-01 22:57:41 +0700",
       "minecraft:ghast": "2025-12-03 17:29:50 +0700",
       "minecraft:ender_dragon": "2025-12-03 20:53:29 +0700",
+      "minecraft:hoglin": "2025-12-20 10:41:47 +0700",
       "minecraft:shulker": "2025-12-03 20:58:07 +0700",
       "minecraft:piglin": "2025-12-02 13:41:53 +0700",
       "minecraft:enderman": "2025-12-02 16:11:16 +0700",
@@ -888,9 +896,12 @@
       "minecraft:magma_cube": "2025-12-18 20:41:51 +0700",
       "minecraft:endermite": "2025-12-05 23:19:45 +0700",
       "minecraft:spider": "2025-12-01 20:49:28 +0700",
+      "minecraft:piglin_brute": "2025-12-20 10:36:14 +0700",
       "minecraft:zombie": "2025-12-01 20:44:07 +0700",
       "minecraft:creeper": "2025-12-02 16:26:01 +0700",
       "minecraft:drowned": "2025-12-02 18:44:20 +0700",
+      "minecraft:wither": "2025-12-20 10:09:41 +0700",
+      "minecraft:zombie_villager": "2025-12-19 11:53:37 +0700",
       "minecraft:slime": "2025-12-04 17:48:46 +0700"
     },
     "done": false
@@ -4257,6 +4268,144 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-12-18 21:32:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2025-12-19 11:20:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-12-19 12:54:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-12-19 12:54:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-12-19 13:01:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-12-19 13:02:12 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-12-19 13:02:12 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_leaves": "2025-12-19 18:05:30 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-12-19 20:16:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-12-20 10:35:21 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-12-20 10:35:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-12-20 10:36:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-12-20 10:36:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-12-20 10:36:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-12-20 10:36:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-12-20 10:36:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-12-20 10:36:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-12-20 10:36:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-12-20 10:39:26 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-12-20 10:44:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-12-20 10:44:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-12-20 10:45:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-12-20 10:45:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-12-20 10:45:03 +0700"
     },
     "done": true
   },
